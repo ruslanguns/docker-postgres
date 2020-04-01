@@ -16,6 +16,12 @@ Luego para detener simplemente corremos el siguiente comando:
 docker-compose stop
 ```
 
+Para iniciar el contenedor una vez ya estando instalada:
+
+```bash
+docker-compose start
+```
+
 Para quitar la imagen o reiniciarla:
 
 ```bash
