@@ -1,6 +1,10 @@
 # Postgres en Docker
 
+> IMPORTANTE: esta no es ni por cerca una configuración recomendada para producción.
+
 Esta es una configuración para levantar una instancia de Postgres con Adminer para administrarla de un solo comando.
+
+Modificar el archivo `.env` con los datos propios.
 
 Para instalarla por primera vez:
 
